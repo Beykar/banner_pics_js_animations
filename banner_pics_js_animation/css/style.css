@@ -1,0 +1,116 @@
+/* CSS RESET SECTION
+------------------------------------------- */
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0b2 | 201101 */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym,
+address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead,
+tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, menu, nav, output,
+ruby, section, summary, time, mark,
+audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+img{vertical-align: top;}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, menu, nav,
+section, canvas, main, video { display: block; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+/* GENERAL SECTION */
+body{
+    font-family: Arial, helvetica, sans-serif;
+}
+.container{
+    width: 960px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.moveRight{
+    float: right;
+}
+
+.moveLeft{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 8px;
+}
+
+main p{
+    text-align: justify;
+}
+
+/* HEADER SECTION */
+header{
+    background-color: #f0f0f0;
+    height: 618px;
+}
+
+#logo{
+    text-align: center;
+}
+#banner{
+    margin-top: -180px;
+}
+#topNav{
+    position: sticky;
+    top:0;
+
+}
+
+#topNav ul{
+
+}
+
+#topNav li{
+    float: left;
+}
+#topNav a{
+    background-color: #9f146d;
+    color: #ffffff;
+    text-decoration:none;
+    text-transform: uppercase;
+    padding: 10px 48px;
+    margin-right: 1px;
+}
+
+#topNav a:hover{
+    background-color: #cdda23;
+    color: #000000;
+}
+
+/* MAIN SECTION */
+h1{
+    font-size: 24px;
+    color: #9f146d;
+    padding-top: 60px;
+}
+.underlined{
+    border-bottom: 2px dotted #cdda23;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-size: 20px;
+    color: #828282;
+    padding-top: 40px;
+}
+/* FOOTER SECTION */
+footer{
+    padding-top: 30px;
+    margin-top: 50px;
+    padding-bottom: 120px;
+    background-color: #cdda23;
+    color: #ffffff;
+}
+
+/* Gallery SECTION */
+#galleryHolder img{
+    margin-bottom: 6.6px;
+    margin-right: 1px;
+}
+
+input[type=text]{
+
+}

@@ -1,0 +1,143 @@
+/*
+    this is an example of how you can organize your
+    css code into categories / sections
+*/
+
+/* -----------------------------
+    CATEGORY / SECTION
+-------------------------------- */
+
+/*  sub section
+---------------------- */
+
+/*
+    * Css Reset / Normalize
+        - strip off default css values
+        - OR setting a common starting point
+
+    * Base style
+        - generic rules, reusable styles,
+        - wrapper, container,
+        - tagname selectors etc..
+
+    * Typography
+        - font size, family, line-height etc
+
+    * Layout
+        - layout,
+        - grids,
+        - columns,
+        - sidebars etc
+
+    * MODULES
+        - header,
+        - main,
+        - footer,
+        - sub header(s),
+        - sub footer(s)
+
+    * COMPONENTS
+        - buttons,
+        - modals,
+        - galleries,
+        - media queries etc
+
+    * THEMES
+        - theme based style in case of multiple themes
+
+    * BROWSER SPECIFIC
+        - legacy browsers,
+        - css hacks
+
+    * PLUGINS
+        - overriding third party styles
+*/
+
+
+
+
+
+/* -----------------------------
+    Css Reset / Normalize
+-------------------------------- */
+
+
+
+
+/* -----------------------------
+    Base style
+-------------------------------- */
+
+
+
+
+
+
+
+/* -----------------------------
+    Typography
+-------------------------------- */
+
+
+
+
+
+/* -----------------------------
+    Layout
+-------------------------------- */
+
+
+
+
+
+/* -----------------------------
+    MODULES
+-------------------------------- */
+
+
+
+
+
+
+/*  Header section
+---------------------- */
+
+
+/*  Main section
+---------------------- */
+
+
+/*  Footer section
+---------------------- */
+
+
+
+/* -----------------------------
+    COMPONENTS
+-------------------------------- */
+
+
+
+
+/* -----------------------------
+    THEMES
+-------------------------------- */
+
+
+
+
+
+
+/* -----------------------------
+    BROWSER SPECIFIC
+-------------------------------- */
+
+
+
+
+
+
+/* -----------------------------
+    PLUGINS
+-------------------------------- */
+
